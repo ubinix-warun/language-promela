@@ -1,0 +1,9 @@
+{
+  "name": "language-promela",
+  "version": "0.0.1",
+  "description": "Atom language support for Promela",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  }
+}

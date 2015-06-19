@@ -15,7 +15,7 @@
     'include': '#comments'
   }
   {
-    'match': '\\b(break|case|continue|default|do|else|for|goto|if|_Pragma|return|switch|while|init|proctype|atomic|run)\\b'
+    'match': '\\b(break|case|continue|default|do|od|else|for|goto|if|fi|_Pragma|return|switch|while|init|proctype|atomic|run)\\b'
     'name': 'keyword.control.c'
   }
   {

@@ -1,6 +1,6 @@
 {
   "name": "language-promela",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Atom language support for Promela",
   "repository": "https://github.com/ubinix-warun/language-promela",
   "license": "MIT",

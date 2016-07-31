@@ -1,3 +1,7 @@
 #Promela language support in Atom Build Status
 
-based on language-c (proof of concept)
+## Feature
+* keyword: run, atomic, byte, do-od, if-fi and active
+
+## Reference
+based on language-c
